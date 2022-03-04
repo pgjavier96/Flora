@@ -1,2 +1,2 @@
 # Flora
-Es una aplicacion para guardar floras con sus imagenes las cules se pueden editar y borrar 
+Es una aplicacion para guardar floras, en una base de datos conectada a android studio con laravel, con sus imagenes las cuales se pueden editar y borrar 
